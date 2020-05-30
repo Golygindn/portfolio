@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="282px" height="3px" viewBox="0 0 282 3" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line</title>
+    <defs>
+        <linearGradient x1="99.0155194%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#CCCCCC" offset="0%"></stop>
+            <stop stop-color="#AAAAAA" offset="51.2642525%"></stop>
+            <stop stop-color="#CCCCCC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Портфолио" transform="translate(-39.000000, -104.000000)" stroke="url(#linearGradient-1)">
+            <polyline id="Line" points="40 104.5 180.047413 106.5 320 104.5"></polyline>
+        </g>
+    </g>
+</svg>

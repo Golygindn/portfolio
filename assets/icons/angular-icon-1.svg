@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="30px" viewBox="0 0 29 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>angular-icon-1</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Портфолио" transform="translate(-436.000000, -696.000000)" fill-rule="nonzero">
+            <g id="angular-icon-1" transform="translate(436.000000, 696.000000)">
+                <polygon id="Path" fill="#E23237" points="0.0110873417 4.97480332 13.9598502 0.00490241443 28.2842521 4.88643721 25.9648911 23.3413174 13.9598502 29.9899527 2.14262878 23.4296835"></polygon>
+                <polygon id="Path" fill="#B52E31" points="28.2842521 4.88643721 13.9598502 0.00490241443 13.9598502 29.9899527 25.9648911 23.3524048"></polygon>
+                <path d="M13.981914,3.5059523 L5.29021421,22.8443828 L8.53714222,22.7891678 L10.2821789,18.4266315 L18.079352,18.4266315 L19.9900335,22.8443828 L23.0933805,22.8995977 L13.981914,3.5059523 Z M14.0040887,9.70178057 L16.9417907,15.842283 L11.4196293,15.842283 L14.0040887,9.70178057 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

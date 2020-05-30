@@ -1,0 +1,98 @@
+html,body{
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    font-family: Helvetica_Neue,serif;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+
+section{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+
+.fist_column{
+    background-color: var(--White-color);
+    width: 360px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.label{
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2rem;
+    color: var(--Text-color);
+    font-family: Helvetica_Neue,serif;
+    font-weight: 500;
+}
+
+.Second_column{
+    width: 100%;
+    height: 100%;
+    background: url("assets/AdobeStock_297715989.png") no-repeat;
+    background-size: cover;
+}
+
+.line{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("assets");
+}
+
+.me{
+    background: url("assets/me.png") no-repeat;
+    background-size: contain;
+    width: 200px;
+    height: 200px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.i_text{
+    font-size: 1.2rem;
+    color: var(--Text-color);
+    font-family: Helvetica_Neue,serif;
+    font-weight: 800;
+}
+
+.light{
+    margin-top: 5px;
+    font-size: 1rem;
+    color: var(--Text-color);
+    font-family: Helvetica_Neue,serif;
+    font-weight: 200;
+}
+
+.text_label{
+    margin-bottom: 5px;
+    font-family: Helvetica_Neue,serif;
+    font-size: 0.8rem;
+    color: var(--Gray-color);
+    font-weight: bold;
+}
+.flex{
+    flex: 1;
+}
+.text{
+    margin-top: 0;
+    font-family: Helvetica_Neue,serif;
+    font-size: 1rem;
+    color: var(--Text-color);
+    font-weight: normal;
+}
+
+.margin{
+    margin-right: auto;
+    margin-left: 40px;
+}
